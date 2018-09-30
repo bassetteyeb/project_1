@@ -1,2 +1,3 @@
 test branch folder2
 merge folder 2 to master fail
+test
